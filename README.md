@@ -89,3 +89,5 @@ interface PowerData {
 ## 授權
 
 MIT License
+
+<img src="https://github.com/david0932/power-dashboard-vue3/blob/main/image/screenshot.png">
