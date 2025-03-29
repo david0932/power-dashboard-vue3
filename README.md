@@ -1,4 +1,4 @@
-# Power Dashboard
+# Power Dashboard 
 
 一個基於 Vue 3 + TypeScript + Vite 開發的電力監控儀表板，用於即時監控和分析用電數據。
 
@@ -89,5 +89,5 @@ interface PowerData {
 ## 授權
 
 MIT License
-
+## Vibe coding 使用 ChatGPT 4o + Windsurf
 <img src="https://github.com/david0932/power-dashboard-vue3/blob/main/image/screenshot.png">
